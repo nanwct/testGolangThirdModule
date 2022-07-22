@@ -1,4 +1,4 @@
-package testThirdModule
+package testGolangThirdModule
 
 import (
 	"time"
