@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"testGolangThirdModule"
+	"github.com/nanwct/testGolangThirdModule"
 )
 
 func main() {
