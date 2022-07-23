@@ -7,5 +7,3 @@ import (
 func GetTime() (t time.Time){
 	return time.Now()
 }
-
-func error()
