@@ -15,7 +15,8 @@ func main() {
 }
 
 func f1()  {
-
+	a := "dev branch"
+	fmt.Println(a)
 }
 
 func f2()  {
