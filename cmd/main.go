@@ -15,8 +15,7 @@ func main() {
 }
 
 func f1()  {
-	a := 2
-	fmt.Println(a)
+
 }
 
 func f2()  {
